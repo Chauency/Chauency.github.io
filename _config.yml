@@ -1,9 +1,9 @@
 # Site settings
 title: Chauency
-SEOTitle: Chauency的博客 | BY Blog
+SEOTitle: Chauency's Blog
 header-img: img/post-bg-desk.jpg
 email: chauencychan@gmail.com
-description: "Stay Hungry, Stay Foolish."
+description: "Everything is Nothing"
 keyword: "Chauency, Hello World"
 url: "http://chauency.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Stay Hungry, Stay Foolish."
+sidebar-avatar: /img/avatar-m.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
